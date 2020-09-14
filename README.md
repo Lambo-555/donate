@@ -1,0 +1,2 @@
+# vezdekod-donate
+VEZDEKOD DONATE
